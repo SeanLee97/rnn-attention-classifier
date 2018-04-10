@@ -1,6 +1,8 @@
 # rnn-attention-classifier
 tensorflow 实现RNN+Attention文本分类
 
+[注！]：此项目为临时项目
+
 ## Usage
 ```
 usage: main.py [-h] [--mode MODE] [--use_attention] [--batch_size BATCH_SIZE]
